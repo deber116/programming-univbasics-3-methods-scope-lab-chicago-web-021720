@@ -3,8 +3,8 @@ def mario
   puts phrase
 end
 
-status = 'Thank You Mario! But Our Princess Is In Another Castle!'
+$status = 'Thank You Mario! But Our Princess Is In Another Castle!'
 
 def toadstool
-  puts status
+  puts $status
 end
