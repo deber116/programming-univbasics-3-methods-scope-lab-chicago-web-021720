@@ -13,3 +13,8 @@ def link
   new_phrase = "It's Dangerous To Go Alone! Take This."
   puts new_phrase 
 end
+
+def any_phrase(anything)
+  puts anything
+end
+  
